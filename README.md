@@ -51,7 +51,7 @@ $ yarn dev
 
 -   [React](https://github.com/facebook/react)
 -   [TypeScript](https://www.typescriptlang.org/)
--   {SCSS](https://sass-lang.com/)
+-   [SCSS](https://sass-lang.com/)
 
 </br>
 
