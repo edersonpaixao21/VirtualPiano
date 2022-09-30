@@ -7,7 +7,7 @@
 ### 🛠  Descrição
 
 </br>
-
+ 
 O projeto tem como objetivo tocar piano virtual com escalas, tons e pedal.
 
 
